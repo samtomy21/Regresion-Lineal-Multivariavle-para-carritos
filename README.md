@@ -1,2 +1,2 @@
-# Regresion-Lineal-Multivariavle-para-carritos
+# Regresion-Lineal-Multivariavle-para-Venta de carros en juliaca utilizando Python
 Laboratorio Practico
